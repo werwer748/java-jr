@@ -1,4 +1,4 @@
-package sec01.ex01;
+package sec01.ex02;
 
 public class MultiStringVarTest {
     public static void main(String[] args) {
